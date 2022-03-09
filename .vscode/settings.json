@@ -2,7 +2,7 @@
   "files.associations": {
     "air.module": "yaml",
     "air.lock": "yaml",
-    "air.make": "yaml",
+    "air.wind": "yaml",
     "air.env": "yaml"
   }
 }
