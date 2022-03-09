@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "air.module": "yaml",
+    "air.lock": "yaml",
+    "air.make": "yaml",
+    "air.env": "yaml"
+  }
+}
